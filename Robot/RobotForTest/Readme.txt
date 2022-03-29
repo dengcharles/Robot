@@ -1,0 +1,1 @@
+﻿Please double click the Robot.exe to start test.
